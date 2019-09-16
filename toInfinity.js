@@ -22,4 +22,4 @@ function  beyond(num){
 
 }
 
-beyond(Number.isFinite);
+
